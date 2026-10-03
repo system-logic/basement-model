@@ -27,7 +27,7 @@ A 19.6 m² basement room with a 2.0 m² bathroom, fully renovated. The starting 
 | Stage | Contents | Status |
 |---|---|---|
 | [2026-10-03-design](2026-10-03-design/) | Design kit: 16 sheets, interactive 3D model, cable schedule, specification, controller I/O | Published |
-| Build and test | Installation as photographed, commissioning tests, the automation in detail | Planned |
+| [2026-10-03-build](2026-10-03-build/) | Build as photographed (stripping, bathroom walls, heating pipes, window, sewerage and water, acoustic walls, screed), then commissioning tests and the automation in detail | In progress |
 
 ## Status of the design
 
