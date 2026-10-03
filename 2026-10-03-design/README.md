@@ -1,6 +1,8 @@
 # Stage 1 — Design kit (October 2026)
 
-Room: 19.6 m² with a 2.0 m² bathroom; plan 6410 × 3250 mm. Working materials for procurement and installation, not a stamped design.
+Room: 19.6 m² with a 2.0 m² bathroom; plan 6410 × 3250 mm. Before: a basement storage room with no electricity, no water, no sewerage and no bathroom partition. Working materials for procurement and installation, not a stamped design.
+
+[Open the 3D model in the browser](https://system-logic.github.io/basement-model/2026-10-03-design/3d-model.html).
 
 ## Files
 

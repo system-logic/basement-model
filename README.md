@@ -1,6 +1,8 @@
 # Basement Room: Wiring, Ventilation and Three-Level Control
 
-A 19.6 m² basement room with a 2.0 m² bathroom, fully renovated. The renovation is ordinary; the engineering is the point: power wiring, lighting, ventilation with a duct heater, sensors, a distribution board, a control cabinet, and automation in three levels where the hardware always has the last word.
+A 19.6 m² basement room with a 2.0 m² bathroom, fully renovated. The starting point was a storage room: no electricity, no water, no sewerage, not even a partition for the bathroom. The renovation is ordinary; the engineering is the point: power wiring, lighting, ventilation with a duct heater, sensors, a distribution board, a control cabinet, and automation in three levels where the hardware always has the last word.
+
+**[Open the 3D model in the browser](https://system-logic.github.io/basement-model/2026-10-03-design/3d-model.html)** — rotate, zoom, click any element for its description.
 
 **Evgenii Zagorodskikh.** Contact: [LinkedIn](https://www.linkedin.com/in/evgenii-zagorodskikh-58671042a/).
 
