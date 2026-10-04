@@ -2,7 +2,7 @@
 
 What has been built so far, as photographed. Electrical installation, commissioning tests and the automation in detail will be added to this stage as the work goes on. The design is in [stage 1](../2026-10-03-design/).
 
-Status on 3 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered and filled, and the floor screed is poured. Everything else is in progress.
+Status on 4 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered and filled, the floor screed is poured, and a new radiator is hung. Everything else is in progress.
 
 ## Starting point — May 2026
 
@@ -96,3 +96,11 @@ The connection to the building's sewerage and water supply is made from the corr
 |---|---|
 | ![](photos/35.jpg) | ![](photos/36.jpg) |
 | 35 — screed poured, bathroom block wall | 36 — screed in the main room |
+
+## Radiator — October 2026
+
+The old cast-iron radiator (05) is replaced with a new sectional radiator. The valves were replaced and the radiator's position on the wall was corrected. The radiator will be taken off again for the work on the wall behind it.
+
+![](photos/37.jpg)
+
+37 — the new radiator with new valves
