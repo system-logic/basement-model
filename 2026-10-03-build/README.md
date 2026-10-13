@@ -2,7 +2,7 @@
 
 What has been built so far, as photographed. Electrical installation, commissioning tests and the automation in detail will be added to this stage as the work goes on. The design is in [stage 1](../2026-10-03-design/).
 
-Status on 4 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered and filled, the floor screed is poured, and a new radiator is hung. Everything else is in progress.
+Status on 13 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered, filled and coated white, the floor screed is poured, a new radiator is hung, and in the bathroom the WC installation frame is boxed in and the sewer and water outlets are brought through the wall lining. Everything else is in progress.
 
 ## Starting point — May 2026
 
@@ -104,3 +104,23 @@ The old cast-iron radiator (05) is replaced with a new sectional radiator. The v
 ![](photos/37.jpg)
 
 37 — the new radiator with new valves
+
+## Bathroom: outlets through the lining, WC frame boxed in — October 2026
+
+The sewer outlets (Ø110 for the WC, Ø50 for the basin) and the hot and cold water stub-outs are brought through the moisture-resistant plasterboard. The WC installation frame with the concealed cistern is boxed in with plasterboard; the water heater, the two water meters and the two motorised shut-off valves of the leak protection system (LPU in the design) sit above it on a sheet of chequer plate.
+
+| | |
+|---|---|
+| ![](photos/39.jpg) | ![](photos/40.jpg) |
+| 39 — sewer and water outlets through the wall lining | 40 — water heater, meters, LPU valves; the boxed-in WC frame with the cistern access panel |
+
+![](photos/41.jpg)
+
+41 — the boxed-in WC frame from the side; the WC outlet at the bottom
+
+## Walls coated white — October 2026
+
+| | |
+|---|---|
+| ![](photos/38.jpg) | ![](photos/42.jpg) |
+| 38 — towards the entrance: the bathroom partition and the temporary board by the door | 42 — towards the window: the new radiator and the heating pipes along the wall |
