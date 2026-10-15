@@ -2,7 +2,7 @@
 
 What has been built so far, as photographed. Electrical installation, commissioning tests and the automation in detail will be added to this stage as the work goes on. The design is in [stage 1](../2026-10-03-design/).
 
-Status on 13 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered, filled and coated white, the floor screed is poured, a new radiator is hung, and in the bathroom the WC installation frame is boxed in and the sewer and water outlets are brought through the wall lining. Everything else is in progress.
+Status on 15 October 2026: the room is stripped, the bathroom walls are built, the heating pipes are reworked, the window is replaced, the incoming cable and a temporary board are in, sewerage and water supply are connected, the walls of the main room are lined with acoustic plasterboard, plastered, filled and coated white, the floor screed is poured, a new radiator is hung, the floor tiles are being laid, and in the bathroom the WC installation frame is boxed in and the sewer and water outlets are brought through the wall lining. Everything else is in progress.
 
 ## Starting point — May 2026
 
@@ -124,3 +124,12 @@ The sewer outlets (Ø110 for the WC, Ø50 for the basin) and the hot and cold wa
 |---|---|
 | ![](photos/38.jpg) | ![](photos/42.jpg) |
 | 38 — towards the entrance: the bathroom partition and the temporary board by the door | 42 — towards the window: the new radiator and the heating pipes along the wall |
+
+## Floor tiles — October 2026
+
+Grey porcelain tiles on the screed, laid from the window towards the entrance, with levelling spacers.
+
+| | |
+|---|---|
+| ![](photos/43.jpg) | ![](photos/44.jpg) |
+| 43 — the screed before tiling; the radiator and the heating pipes along the wall | 44 — tiles being laid, seen from the entrance |
